@@ -1,0 +1,14 @@
+D:\VisualStudioProjects\DRUG__CarNumber\bin\Debug\net8.0\DRUG__CarNumber.exe
+D:\VisualStudioProjects\DRUG__CarNumber\bin\Debug\net8.0\DRUG__CarNumber.deps.json
+D:\VisualStudioProjects\DRUG__CarNumber\bin\Debug\net8.0\DRUG__CarNumber.runtimeconfig.json
+D:\VisualStudioProjects\DRUG__CarNumber\bin\Debug\net8.0\DRUG__CarNumber.dll
+D:\VisualStudioProjects\DRUG__CarNumber\bin\Debug\net8.0\DRUG__CarNumber.pdb
+D:\VisualStudioProjects\DRUG__CarNumber\obj\Debug\net8.0\DRUG__CarNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\DRUG__CarNumber\obj\Debug\net8.0\DRUG__CarNumber.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\DRUG__CarNumber\obj\Debug\net8.0\DRUG__CarNumber.AssemblyInfo.cs
+D:\VisualStudioProjects\DRUG__CarNumber\obj\Debug\net8.0\DRUG__CarNumber.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\DRUG__CarNumber\obj\Debug\net8.0\DRUG__CarNumber.dll
+D:\VisualStudioProjects\DRUG__CarNumber\obj\Debug\net8.0\refint\DRUG__CarNumber.dll
+D:\VisualStudioProjects\DRUG__CarNumber\obj\Debug\net8.0\DRUG__CarNumber.pdb
+D:\VisualStudioProjects\DRUG__CarNumber\obj\Debug\net8.0\DRUG__CarNumber.genruntimeconfig.cache
+D:\VisualStudioProjects\DRUG__CarNumber\obj\Debug\net8.0\ref\DRUG__CarNumber.dll
